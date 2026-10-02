@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--jada-->
+<inimene synd="1945">
+	<nimi>Hanna</nimi>
+	<lapsed>
+		<inimene synd="1963">
+			<nimi>Igor</nimi>
+			<lapsed>
+				<inimene synd="1989">
+					<nimi>Anna</nimi>
+					<lapsed>
+						<inimene synd="2013">
+							<nimi>Timur</nimi>
+						</inimene>
+						<inimene synd="2017" >
+							<nimi>Elisaveta</nimi>
+						</inimene>
+						<inimene synd="2022" >
+							<nimi>Myroslava</nimi>
+						</inimene>
+					</lapsed>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene synd="1966">
+			<nimi>Tetjana</nimi>
+			<lapsed>
+				<inimene synd="2001">
+					<nimi>Anastasiia</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene synd="1968">
+			<nimi>Svetlana</nimi>
+			<lapsed>
+				<inimene synd="1991">
+					<nimi>Vadim</nimi>
+					<lapsed>
+						<inimene synd="2017">
+							<nimi>Yaroslav</nimi>
+						</inimene>
+					</lapsed>
+				</inimene>
+				<inimene synd="1996" >
+					<nimi>Tetjana</nimi>
+					<lapsed>
+						<inimene synd="2021">
+							<nimi>Lisa-Mariia</nimi>
+						</inimene>
+					</lapsed>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene synd="1980">
+			<nimi>Halyna</nimi>
+			<lapsed>
+				<inimene synd="2003">
+					<nimi>Oksana</nimi>
+				</inimene>
+				<inimene synd="2008" >
+					<nimi>Mariia</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</lapsed>
+</inimene>

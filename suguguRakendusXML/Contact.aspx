@@ -4,6 +4,11 @@
     <main aria-labelledby="title">
         <h2 id="title"><%: Title %>.</h2>
         <h3>Mariia Posvystak</h3>
+        <div>
+            <asp:Xml runat="server"
+                 DocumentSource="~/Minu_Sugupuu.xml"
+                 TransformSource="~/sugupuuParing.xslt"></asp:Xml>
+        </div>
         <address>
             Mariia Posvystak poolt proovitud XSLT funktsioonid
         </address>

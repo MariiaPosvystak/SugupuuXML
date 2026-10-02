@@ -26,6 +26,13 @@
             <br />substring(nimi, 1, 1) - eraldab nimest 1.täht
             <br />substring(nimi, 1, 3) - eraldab nimest esimesed 3.tähted
             <br />string-length(nimi) - sümboolite arv
+            <br />start-with(nimi, 'A') - tekstikontroll
+            <br />last() - viimase järjekorranumber
+            <br />position() - jooksva järjekorranumber
+            <br />not(), true(), false()
+            <br />normalize-space() - võtab tühikud ja muud vahed ära
+            <br />translate(nimi, algsümboolid, lõppsümboolid) - asenda tähed
+            <br />translate(kass, 'ss', 'tt')--->katt
         </section>
     </main>
 
