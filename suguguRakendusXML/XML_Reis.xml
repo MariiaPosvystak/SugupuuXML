@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<reisid>
+	<reis>
+		<Lennujaam Lenjam="Shamattawa Airport">
+			<ReisNumber>LH3554</ReisNumber>
+		</Lennujaam>
+		<Riik counry="China">
+			<Linn>Miaotou</Linn>
+		</Riik>
+		<Pikkus>66</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Ukunda Airstrip">
+			<ReisNumber>CX5047</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Poland">
+			<Linn>Chynów</Linn>
+		</Riik>
+		<Pikkus>52</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Governor's Harbour Airport">
+			<ReisNumber>AI7401</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Brazil">
+			<Linn>Ouro Branco</Linn>
+		</Riik>
+		<Pikkus>86</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Oxford House Airport">
+			<ReisNumber>QF4565</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Malaysia">
+			<Linn>Putrajaya</Linn>
+		</Riik>
+		<Pikkus>36</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Kayseri Erkilet Airport">
+			<ReisNumber>AF9614</ReisNumber>
+		</Lennujaam>
+		<Riik counry="China">
+			<Linn>Huanglong</Linn>
+		</Riik>
+		<Pikkus>74</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Duqm International Airport">
+			<ReisNumber>EK1205</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Austria">
+			<Linn>Altenberg bei Linz</Linn>
+		</Riik>
+		<Pikkus>25</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Leirin Airport">
+			<ReisNumber>IB7772</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Mexico">
+			<Linn>Las Palmas</Linn>
+		</Riik>
+		<Pikkus>51</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Vance Air Force Base">
+			<ReisNumber>KE8796</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Poland">
+			<Linn>Rokitno Szlacheckie</Linn>
+		</Riik>
+		<Pikkus>26</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Ailinglaplap Airok Airport">
+			<ReisNumber>QF1128</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Greece">
+			<Linn>Níkaia</Linn>
+		</Riik>
+		<Pikkus>91</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Lawas Airport">
+			<ReisNumber>CX8594</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Indonesia">
+			<Linn>Kadukandel</Linn>
+		</Riik>
+		<Pikkus>9</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Gratiot Community Airport">
+			<ReisNumber>AC7595</ReisNumber>
+		</Lennujaam>
+		<Riik counry="China">
+			<Linn>Huangshapu</Linn>
+		</Riik>
+		<Pikkus>61</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Rimatara Airport">
+			<ReisNumber>CX8163</ReisNumber>
+		</Lennujaam>
+		<Riik counry="China">
+			<Linn>Dabu</Linn>
+		</Riik>
+		<Pikkus>8</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="L'Espérance Airport">
+			<ReisNumber>AC2322</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Afghanistan">
+			<Linn>Mehtar Lām</Linn>
+		</Riik>
+		<Pikkus>34</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Hollister Municipal Airport">
+			<ReisNumber>IB1779</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Portugal">
+			<Linn>Negreiros</Linn>
+		</Riik>
+		<Pikkus>59</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Piracicaba Airport">
+			<ReisNumber>LH3297</ReisNumber>
+		</Lennujaam>
+		<Riik counry="China">
+			<Linn>Zhutang</Linn>
+		</Riik>
+		<Pikkus>97</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Glentanner Airport">
+			<ReisNumber>AV2942</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Lebanon">
+			<Linn>Jbaïl</Linn>
+		</Riik>
+		<Pikkus>37</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Brockville - Thousand Islands Regional Tackaberry Airport">
+			<ReisNumber>NH9219</ReisNumber>
+		</Lennujaam>
+		<Riik counry="France">
+			<Linn>Lyon</Linn>
+		</Riik>
+		<Pikkus>35</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Inishmore Aerodrome">
+			<ReisNumber>AI6015</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Honduras">
+			<Linn>San Jerónimo</Linn>
+		</Riik>
+		<Pikkus>87</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Helmuth Baungarten Airport">
+			<ReisNumber>AZ1674</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Bangladesh">
+			<Linn>Fatikchari</Linn>
+		</Riik>
+		<Pikkus>71</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Governador Jorge Teixeira de Oliveira Airport">
+			<ReisNumber>AV5118</ReisNumber>
+		</Lennujaam>
+		<Riik counry="China">
+			<Linn>Jiangxigou</Linn>
+		</Riik>
+		<Pikkus>34</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Pongtiku Airport">
+			<ReisNumber>SK9544</ReisNumber>
+		</Lennujaam>
+		<Riik counry="France">
+			<Linn>Meylan</Linn>
+		</Riik>
+		<Pikkus>55</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Gerald R. Ford International Airport">
+			<ReisNumber>AC3505</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Afghanistan">
+			<Linn>Ḩāfiz̧ Moghul</Linn>
+		</Riik>
+		<Pikkus>41</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Arorae Island Airport">
+			<ReisNumber>QR9090</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Angola">
+			<Linn>Namibe</Linn>
+		</Riik>
+		<Pikkus>18</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Datong Airport">
+			<ReisNumber>KL6805</ReisNumber>
+		</Lennujaam>
+		<Riik counry="China">
+			<Linn>Baozhu</Linn>
+		</Riik>
+		<Pikkus>46</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Okhotsk Airport">
+			<ReisNumber>KL1814</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Indonesia">
+			<Linn>Somba</Linn>
+		</Riik>
+		<Pikkus>3</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Cà Mau Airport">
+			<ReisNumber>IB1115</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Canada">
+			<Linn>Penticton</Linn>
+		</Riik>
+		<Pikkus>59</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Hawke's Bay Airport">
+			<ReisNumber>AM8764</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Philippines">
+			<Linn>Bualan</Linn>
+		</Riik>
+		<Pikkus>77</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="El Arrayán Airport">
+			<ReisNumber>SA8526</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Iceland">
+			<Linn>Neskaupstaður</Linn>
+		</Riik>
+		<Pikkus>33</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Atlantic City International Airport">
+			<ReisNumber>NZ3102</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Ukraine">
+			<Linn>Lyuboml’</Linn>
+		</Riik>
+		<Pikkus>47</Pikkus>
+	</reis>
+	<reis>
+		<Lennujaam Lenjam="Breves Airport">
+			<ReisNumber>KE6079</ReisNumber>
+		</Lennujaam>
+		<Riik counry="Greece">
+			<Linn>Nestório</Linn>
+		</Riik>
+		<Pikkus>32</Pikkus>
+	</reis>
+</reisid>
