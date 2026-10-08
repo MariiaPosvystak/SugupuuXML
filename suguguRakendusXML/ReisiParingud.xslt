@@ -5,15 +5,60 @@
     <xsl:output method="xml" indent="yes"/>
 	
 	<xsl:template match="/">
+		<table>
+			<thead>
+				<tr>
+					<th>Riik</th>
+					<th>Pikkus</th>
+					<th>Transport</th>
+					<th>Hotell</th>
+					<th>Ekskursioonid</th>
+					<th>Hind</th>
+					<th>Hinnang</th>
+				</tr>
+			</thead>
+			<tbody>
+			<xsl:for-each select="//reis">
+					<xsl:sort select="hinnang" data-type="number" order="descending"/>
+					<tr>
+						<td>
+							<xsl:value-of select="suund/riik"/>
+						</td>
+						<td>
+							<xsl:value-of select="suund/kestvus"/>
+						</td>
+						<td>
+							<xsl:value-of select="transport"/>
+						</td>
+						<td>
+							<xsl:value-of select="majutus"/>
+						</td>
+						<td>
+							<xsl:value-of select="ekskursioonid"/>
+						</td>
+						<td>
+							<xsl:value-of select="muudKulud"/>
+						</td>
+						<td>
+							<xsl:value-of select="hinnang"/>
+						</td>
+					</tr>
+				</xsl:for-each>
+			</tbody>
+		</table>
+		<br />
+		<br />
 		<ol>
-			<li>
-				<h1>
-					Riigid: <br/>
-					<xsl:for-each select="//suund">
-						<xsl:value-of select="riik"/>,
-					</xsl:for-each>
-					<br />
-				</h1>
+			<li><strong>Riigid: </strong><br/>
+				<ul>
+					<h1>
+						<xsl:for-each select="//suund">
+							<li>
+								<xsl:value-of select="riik"/>
+							</li>
+						</xsl:for-each>
+					</h1>
+				</ul>
 			</li>
 			<li>
 			<strong>Reisi andmed: </strong>
@@ -58,18 +103,14 @@
 			<li>
 				<strong>Järjestatuna ↓ :</strong>
 				<ul>
-					<xsl:for-each select="reisid/reis/suund">
-						<xsl:sort select="kestvus" order="descending"/>
+					<xsl:for-each select ="reisid/reis">
+						<xsl:sort select="suund/kestvus" data-type="number" order="descending"/>
 						<li>
-							<xsl:value-of select="riik"/>
+							<xsl:value-of select="concat(suund/riik, '(', suund/kestvus, '); Hotell: ', majutus, '; Hind: ', muudKulud)"/>
 						</li>
 					</xsl:for-each>
 				</ul>
 			</li>
 		</ol>
-				
-				
-
-
 	</xsl:template>
 </xsl:stylesheet>
